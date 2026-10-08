@@ -1,0 +1,16 @@
+# Ignore data and generated embeddings (too large for GitHub)
+data/
+embeddings/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
