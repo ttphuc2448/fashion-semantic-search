@@ -58,7 +58,7 @@ python encode_data.py
 ### 6. Start the Application
 Once the embeddings are successfully saved, launch the Streamlit search engine:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 This will automatically open the web interface in your browser. (If it doesn't open automatically, navigate to [http://localhost:8501](http://localhost:8501)).
 
