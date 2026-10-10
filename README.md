@@ -69,6 +69,8 @@ python -m streamlit run app.py
 ```
 This will automatically open the web interface in your browser. (If it doesn't open automatically, navigate to [http://localhost:8501](http://localhost:8501)).
 
+*(Watch the [Demo Video](https://youtu.be/E-gOk5zPwss) in action!)*
+
 ---
 
 ## 🔍 Example Test Queries
