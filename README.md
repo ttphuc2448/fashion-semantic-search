@@ -2,6 +2,9 @@
 
 A Semantic Text-to-Image search engine built for fashion products. This prototype allows users to search through an image dataset using natural language queries instead of exact keyword matches. It understands concepts like color, patterns, and contexts (e.g., "red summer dress" or "leather shoes").
 
+## 📺 Demo
+Watch the demo video on YouTube: [https://youtu.be/E-gOk5zPwss](https://youtu.be/E-gOk5zPwss)
+
 ## How It Works
 1. **Offline Encoding:** The AI model processes all local images, extracts visual features (vector embeddings), and saves them to a database.
 2. **Online Searching:** When you type a query, the text is converted into a vector. The system calculates the similarity between your text vector and the image vectors, returning the best matches instantly.
